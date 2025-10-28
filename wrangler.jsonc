@@ -1,0 +1,9 @@
+{
+  "name": "chatkit-starter",
+  "compatibility_date": "2024-09-23",
+  "compatibility_flags": [
+    "nodejs_compat"
+  ],
+  // This tells Wrangler/Pages where the adapter will put the built site
+  "pages_build_output_dir": ".vercel/output/static"
+}
